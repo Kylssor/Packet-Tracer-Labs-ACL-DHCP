@@ -14,5 +14,3 @@ Prácticas académicas de redes en Cisco Packet Tracer orientadas a soporte y op
 - Acceso a servicios permitidos (y bloqueo de servicios restringidos)
 - Asignación correcta de IP por DHCP
 
-## Evidencia
-Carpeta `/evidence` con capturas/fotos de escenarios de clase cuando aplique.
